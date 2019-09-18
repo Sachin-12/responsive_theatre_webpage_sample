@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    position: relative;
+    background-color: #e0e0e0;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
+    text-align: center;
+    padding: 50px 10px 50px;
+}
+
+.cinemas-img {
+    transform: rotate(25deg);
+    width: 60%;
+    height: auto;
+    padding: 10%;
+    /* border-radius: 100%; */
+}
+
+.navbar-brand{
+    font-size:1.5rem;
+}
+
+.download-btn1{
+    margin:0 25% 2%;
+}
+.download-btn2{
+    margin:0 25% 2%;
+}
+
+
+#about{
+    padding: 40px 20px 40px;
+    text-align: center;
+    font-size: 2rem;
+    color:grey;
+}
+#contact {
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    padding:10px 0 10px;
+
+    background-color: #e0e0e0;
+}
+
+.youtube-icon {
+    color: #da4302;
+    margin-left: 20px;
+}
+
+.twitter-icon {
+    color: blue;
+    margin-left: 20px;
+}
+
+.facebook-icon {
+    color: blue;
+    margin-left: 20px;
+}
+
+.instagram-icon {
+    color: orange;
+    margin-left: 20px;
+}
